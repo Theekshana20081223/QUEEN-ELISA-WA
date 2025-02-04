@@ -8,14 +8,17 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 module.exports = {
   SESSION_ID: process.env.SESSION_ID || '',
   ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
+  ALIVE_MESSAGE: `~Queen Elisa Is Online bokka🥔🤟
+~command list eka ganna ".menu"🥔
+~Owner is "Kavii zer"🌚🤟
+~ i stole most of the code from @Mr Nima Stil this version of the Bot is owned by me😅
 
-⏰ Now time is @time
-📅 Date : @date
+~here's something to think 🌚 : "Computers make it easier to do a lot of things, but most of the things they make it easier to do don't need to be done."
+
+~*ඇත්ත තමයි බං බුදුන් දකින්නට පිං මදි වෙන්නැති සංසාරේ....🤕* ~Manakkalpitha🤟
 
 🟢 I am online still @uptime
 🔄 Response Delay : @ping Ms
-💻 Host : @host
 🪢 Version : @version
 
 ☫ Work Mode : @mode
@@ -28,8 +31,8 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
   BOT_NAME: 'queen elisa',
-  OWNER_NAME: 'MrNima',
-  OWNER_NUMBER: '94715166712',
+  OWNER_NAME: 'Kavii Zer',
+  OWNER_NUMBER: '94703011541',
   SUDO: '94715166712',
   WORK_TYPE: 'private', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
@@ -37,8 +40,8 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ\nmr-nima.vercell.app',
   STICKER_AUTHOR: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
   STICKER_PACK: 'QUEEN ELISA',
-  REMOVE_BG_APIKEY: '',
-  MAXIMUM_FILESIZE: 90, //size in MB
+  REMOVE_BG_APIKEY: 'eJaUGcE1UiG6qd217m8f2VZJ',
+  MAXIMUM_FILESIZE: 120, //size in MB
   OWNER_R_EMOJI: '💻',
   ALIVE_AS_GIF: false,//this only work for short videos
   AUTO_VOICE: true,
