@@ -8,17 +8,14 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 module.exports = {
   SESSION_ID: process.env.SESSION_ID || '',
   ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `~Queen Elisa Is Online bokka🥔🤟
-~command list eka ganna ".menu"🥔
-~Owner is "Kavii zer"🌚🤟
-~ i stole most of the code from @Mr Nima Stil this version of the Bot is owned by me😅
+  ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
-~here's something to think 🌚 : "Computers make it easier to do a lot of things, but most of the things they make it easier to do don't need to be done."
-
-~*ඇත්ත තමයි බං බුදුන් දකින්නට පිං මදි වෙන්නැති සංසාරේ....🤕* ~Manakkalpitha🤟
+⏰ Now time is @time
+📅 Date : @date
 
 🟢 I am online still @uptime
 🔄 Response Delay : @ping Ms
+💻 Host : @host
 🪢 Version : @version
 
 ☫ Work Mode : @mode
